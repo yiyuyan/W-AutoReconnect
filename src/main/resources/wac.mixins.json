@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.wac.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "wac.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "DisconnectedScreenMixin",
+    "JoinMultiplayerScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
