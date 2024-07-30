@@ -1,0 +1,6 @@
+JVM:         E:\jdk-17.0.2\bin\java.exe
+JVM Args:    
+Run Args:    "--inJar", "D:\MinecraftForgeMod\W-AutoReconnect\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9bfb1692f863cc25a0bec177ccc2d799b2297dab\rename\output.jar", "--outJar", "D:\MinecraftForgeMod\W-AutoReconnect\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9bfb1692f863cc25a0bec177ccc2d799b2297dab\AccessTransformer\output.jar", "--atFile", "D:\MinecraftForgeMod\W-AutoReconnect\src\main\resources\META-INF\accesstransformer.cfg", "--atFile", "C:\Users\ADMINI~1\AppData\Local\Temp\FG_ats_1976481054393617658.cfg"
+Classpath:   E:\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.0\accesstransformers-8.2.0-fatjar.jar
+Working Dir: D:\MinecraftForgeMod\W-AutoReconnect\build\fg_cache\mcp\1.20.1-20230612.114412\joined\9bfb1692f863cc25a0bec177ccc2d799b2297dab\AccessTransformer
+Main Class:  net.minecraftforge.accesstransformer.TransformerProcessor
